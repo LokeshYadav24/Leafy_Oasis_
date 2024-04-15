@@ -6,7 +6,7 @@ import App from './App';
 
 
 (function (d, m) {
-  var kommunicateSettings = { "appId": "18c2ec3c69229e81cdc33650604d6157a", "popupWidget": true, "automaticChatOpenOnNavigation": true };
+  var kommunicateSettings = { "appId": "a666b35a03856acd849e91b9a27ed577", "popupWidget": true, "automaticChatOpenOnNavigation": true };
   var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
   s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
   var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
